@@ -1,0 +1,14 @@
+{
+    "name": "electron-small-test",
+    "dependencies": {
+        "electron": "^1.8.2-beta.3"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "main": "main.js",
+    "version": "0.0.0",
+    "license": "MIT",
+    "description": "",
+    "author": "dgeslin"
+}
